@@ -3,8 +3,6 @@ public class App {
         System.out.println("Hello, Secure CI/CD Java World!");
     }
 }
-
-
 // Gitleaks secrets
 // public class App {
 //     public static void main(String[] args) {
